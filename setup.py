@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="jsdict",
+    name="jsdict-py",
     version="1.0.1",
     author="zevaryx",
     author_email="zevaryx@gmail.com",
